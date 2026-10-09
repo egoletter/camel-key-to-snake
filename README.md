@@ -58,7 +58,3 @@ camelKeyToSnake({ items: [{ itemId: 1 }, { itemId: 2 }] });
 
 The camelToSnake regular expression is based on:
 <https://stackoverflow.com/a/77731548>
-
-## Licence
-
-MIT
